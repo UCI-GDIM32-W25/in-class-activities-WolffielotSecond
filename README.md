@@ -1,10 +1,10 @@
 # GDIM32 In Class Activities
 
-\#Week 1
+\# Week 1
 
 
 
-\##Activity 1:
+\## Activity 1:
 
 
 
@@ -12,11 +12,11 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 
 
 
-\##Activity 2:
+\## Activity 2:
 
 
 
-\###Q1
+\### Q1
 
 
 
@@ -24,7 +24,7 @@ x = 10
 
 
 
-\###Q2
+\### Q2
 
 
 
@@ -32,7 +32,7 @@ x = 2
 
 
 
-\###Q3
+\### Q3
 
 
 
@@ -40,7 +40,7 @@ print "hello world" on the log section in every tick
 
 
 
-\###Q4
+\### Q4
 
 
 
@@ -48,7 +48,7 @@ MonoBehaviour
 
 
 
-\###Q5
+\### Q5
 
 
 
@@ -56,7 +56,7 @@ print "x = 10" in the debug log
 
 
 
-\###Q6
+\### Q6
 
 
 
@@ -68,7 +68,7 @@ print "x = 10" in the debug log
 
 
 
-\###Q7
+\### Q7
 
 
 
@@ -76,7 +76,7 @@ it should be \_playerTransfrom.Translate(\_direction) not Transform.Translate(\_
 
 
 
-\###Q8
+\### Q8
 
 
 
@@ -84,7 +84,7 @@ it should be \_playerTransfrom.Translate(\_direction)
 
 
 
-\##Activity 3:
+\## Activity 3:
 
 
 

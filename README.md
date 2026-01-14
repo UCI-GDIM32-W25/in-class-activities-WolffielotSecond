@@ -38,6 +38,8 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 ## Activity 1:
 
 <img width="768" height="480" alt="Relations" src="https://github.com/user-attachments/assets/60897f7a-dac4-49d2-a95b-080b8e07dfa9" />
+
 [This is the commited link](https://github.com/UCI-GDIM32-W25/mg2-WolffielotSecond/commit/3f81f6942abf436586efa11b693f59efa06eba97)
+
 I've done the whole project.
 

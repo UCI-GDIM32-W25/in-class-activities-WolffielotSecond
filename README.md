@@ -90,3 +90,7 @@ it should be \_playerTransfrom.Translate(\_direction)
 
 [This is our breakdown document](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?usp=sharing)
 
+# Week 2
+
+
+## Activity 1:

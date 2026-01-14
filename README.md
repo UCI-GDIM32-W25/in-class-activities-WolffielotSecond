@@ -41,5 +41,5 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 
 [This is the commited link](https://github.com/UCI-GDIM32-W25/mg2-WolffielotSecond/commit/3f81f6942abf436586efa11b693f59efa06eba97)
 
-I've done the whole project.
+I've done the whole project. Like the scene, the code for the bird, coin and player controller and the algorithm of the random generation of coins.
 

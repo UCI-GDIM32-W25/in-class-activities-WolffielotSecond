@@ -37,3 +37,6 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 
 ## Activity 1:
 
+<img width="768" height="480" alt="Relations" src="https://github.com/user-attachments/assets/60897f7a-dac4-49d2-a95b-080b8e07dfa9" />
+
+

@@ -16,72 +16,14 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 
 
 
-### Q1
-
-
-
-x = 10
-
-
-
-### Q2
-
-
-
-x = 2
-
-
-
-### Q3
-
-
-
-print "hello world" on the log section in every tick
-
-
-
-### Q4
-
-
-
-MonoBehaviour
-
-
-
-### Q5
-
-
-
-print "x = 10" in the debug log
-
-
-
-### Q6
-
-
-
-(10) is an Argument
-
-
-
-("x = " + x) is an Expression
-
-
-
-### Q7
-
-
-
-it should be \_playerTransfrom.Translate(\_direction) not Transform.Translate(\_direction). 'Transform' is a instance method, but we should use a static method for this thing.
-
-
-
-### Q8
-
-
-
-it should be \_playerTransfrom.Translate(\_direction)
-
+1. x = 10
+2. x = 2
+3. print "hello world" on the log section in every tick
+4. MonoBehaviour
+5. print "x = 10" in the debug log
+6. (10) is an Argument, ("x = " + x) is an Expression
+7. it should be \_playerTransfrom.Translate(\_direction) not Transform.Translate(\_direction). 'Transform' is a instance method, but we should use a static method for this thing.
+8. it should be \_playerTransfrom.Translate(\_direction)
 
 
 ## Activity 3:
@@ -94,3 +36,4 @@ it should be \_playerTransfrom.Translate(\_direction)
 
 
 ## Activity 1:
+

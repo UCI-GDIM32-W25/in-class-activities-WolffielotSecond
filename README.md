@@ -43,3 +43,12 @@ Try looking though the pre-learning slides this time, cuz we are testing on it t
 
 I've done the whole project. Like the scene, the code for the bird, coin and player controller and the algorithm of the random generation of coins.
 
+# Week 3
+
+## Activity 1:
+
+Activity 0-2
+Buddy's name: Haoyi Zhang
+Activity 3
+
+

@@ -45,10 +45,12 @@ I've done the whole project. Like the scene, the code for the bird, coin and pla
 
 # Week 3
 
-## Activity 1:
+##Activity 0-2
 
-Activity 0-2
 Buddy's name: Haoyi Zhang
-Activity 3
+
+##Activity 3
+
+<img width="1521" height="951" alt="image" src="https://github.com/user-attachments/assets/19f9e8ce-ac20-4c39-af2f-b229cc1de42a" />
 
 

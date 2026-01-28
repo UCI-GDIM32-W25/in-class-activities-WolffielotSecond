@@ -54,3 +54,13 @@ Buddy's name: Haoyi Zhang
 <img width="1521" height="951" alt="image" src="https://github.com/user-attachments/assets/19f9e8ce-ac20-4c39-af2f-b229cc1de42a" />
 
 
+# Week 4
+
+## Activity 1
+
+Haoyi Zhang
+
+## Activity 2
+
+
+

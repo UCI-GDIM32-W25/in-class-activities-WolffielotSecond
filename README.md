@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+![img](https://github.com/user-attachments/assets/2d5ad1c4-4f49-417d-8c8b-e11fac0b6a31)# GDIM32 In Class Activities
 
 # Week 1
 
@@ -61,6 +61,10 @@ Buddy's name: Haoyi Zhang
 Haoyi Zhang
 
 ## Activity 2
+
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/5db0c8ca-738e-4475-8f27-26b9dcbb98db" />
+
 
 
 

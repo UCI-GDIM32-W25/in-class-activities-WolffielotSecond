@@ -74,3 +74,7 @@ Haoyi Zhang
 ## Activity 1
 
 It's okay for me. And I'll learn and keep that because although I know little about unity but in Unreal I can use more interface and abstract classes instead of casting to blueprints.
+
+## Activity 2
+
+EmemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo2 are controller, DialogueBubble and InventoryUI are view.

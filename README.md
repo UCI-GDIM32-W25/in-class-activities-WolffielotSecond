@@ -78,3 +78,14 @@ It's okay for me. And I'll learn and keep that because although I know little ab
 ## Activity 2
 
 EmemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo2 are controller, DialogueBubble and InventoryUI are view.
+
+## Activity 3
+
+1. A rhyme game should have a scriptable object to store the data for points awarded and things that will happen when responded to a kind of key. The game controller should be a singleton(to handle the total scores and general data)
+2. The model will be the stats of the player or enemy, the bullet, the health, thescore of the player. The view is the HUD, or the scoreboard. The controller will be the control of the character of the player or the game.
+3. The Inheritance will be helpful for the plant systems. The Finite state machine will be used for the state of the plant will be, like sead, growing, or ripe. State Machine will be helpful for the whole state of the plantes.
+
+## Activity 4
+
+Pengcheng Qi, Haoyi Kun, Allen Gu
+Proposal: [Link to the google doc](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?usp=sharing)

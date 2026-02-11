@@ -95,10 +95,16 @@ Proposal: [Link to the google doc](https://docs.google.com/document/d/1x9D6Q_2PD
 
 ## Activity 1
 
+For gizmos, it's a good tool to visualize like player moving direction and collision, and it's useful to know if they are wrong when the game objects are going to the wrong way.
+
+For profiler, it's a good way to analyze the fps and what's causing the game to lag, like specific game object's specific component.
+
+For break points, it's a good tool to debug and know which lines are causing certain bugs.
+
 ## Activity 2
 
 Attendence: Pengcheng Qi, Haoyi Zhang, Allen Gu
 
-## Final Draft
+## Final Draft Link
 
 [Link to google doc](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?usp=sharing)

@@ -99,6 +99,6 @@ Proposal: [Link to the google doc](https://docs.google.com/document/d/1x9D6Q_2PD
 
 Attendence: Pengcheng Qi, Haoyi Zhang, Allen Gu
 
-##Final Draft
+## Final Draft
 
 [Link to google doc](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?usp=sharing)

@@ -105,6 +105,34 @@ For break points, it's a good tool to debug and know which lines are causing cer
 
 Attendence: Pengcheng Qi, Haoyi Zhang, Allen Gu
 
+# Week 7
+
+## Activity 1
+
+1. private Vector3 _raycastStart calculates the srarting point of the raycasting. It switches the object position to the world postion. This is a read-only property that is like a getter. It prevents the data stored in it from being modified.
+2. private Vector3 _raycastDir creates a vector pointing to the player character. It is also a property for the same reason. 
+3. private void UpdateState () updates the finite state machine by using if() statement and the HasLineOfSightToPlayer() method, which initializes the bool return value to false, projects raycast using Physics.Raycast(), and then checks if the player is in sight by checking the tag.
+4. Physics.SphereCast() is used to create a spherecast in HasCloseObstacles () method. This method is used to check if there are close obstacles in the area and return the bool value. If there is, _spherecastHitLocation is modified.
+5. OnDrawGizmos() draws the raycast and changes the color according to _hasLineOfSightToPlayer on gizmos; it also draws the area of the spherecast on Gizmos. This is important because it helps the developers see these elements in the scene.
+
+## Activity 2
+
+Pengcheng Qi, Haoyi Zhang, Allen Gu
+
+## Activity 3
+
+<img width="822" height="717" alt="5f5f337556e90bfbdca6da1725232f75" src="https://github.com/user-attachments/assets/c2b85e13-4438-4549-b600-1bde1cc1a56f" />
+
+## Activity 4
+
+https://trello.com/b/TcDWOqGX
+
+## Activity 5
+
+https://github.com/leiyu0803/GDIM32-Final/commit/d315dd5126402acd08f19c4d7dfb0f70845ec35b
+
+I editied the map and fixed the bugs 
+
 ## Final Draft Link
 
 [Link to google doc](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?usp=sharing)

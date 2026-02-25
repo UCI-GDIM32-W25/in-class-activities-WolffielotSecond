@@ -136,3 +136,31 @@ I editied the map and fixed the bugs
 ## Final Draft Link
 
 [Link to google doc](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?usp=sharing)
+
+## Week 8
+
+### Activity 1
+
+A rendering pipeline is how everything is rendered on screen. It can be modified in settings and can be seen if it's working. Post Process Profile is a file that used to manage all the post process effects. You can use it to add all kinds of screen effects like dizzyness.
+
+### Activity 2
+
+Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 3
+
+[Test itch page](https://stormmoon.itch.io/gdim32-final-test1)
+
+Goal: Test all the interactable item. 
+
+After 30s of explore, tester known how to interact with all the items in the sense. All system working as intended in the current test version. 
+
+### Activity 4
+
+Polished the background to make it more lively
+
+Made a raw NPC that can move to specific locations and can play animation(but bugged).
+
+### Activity 5
+
+[Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/fe3abe131af76f3f7a79ad029fffd0032272ceee)

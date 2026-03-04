@@ -177,6 +177,8 @@ Haoyi Zhang, Pengcheng Qi, Allen Gu
 
 ### Activity 3
 
+Player need some time to learn how to interact with the item in the scenes. Most player can complete 4-6 order within 90 seconds.
+
 ### Activity 4
 
 Only 2 more NPCs and the dialogs texts between the characters.

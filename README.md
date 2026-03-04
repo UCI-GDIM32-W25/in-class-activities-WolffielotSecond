@@ -164,3 +164,25 @@ Made a raw NPC that can move to specific locations and can play animation(but bu
 ### Activity 5
 
 [Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/fe3abe131af76f3f7a79ad029fffd0032272ceee)
+
+## Week 8
+
+### Activity 1
+
+The Has Exit Time option means that a transition happens only after the current animation has played for a certain amount of time, while Transition Duration controls how long the transition between animations lasts. If we want the player to jump immediately, the walk, run, and idle animations should transition to the jump animation without using exit time. Using a DialogueNode class allows us to connect dialogue to the dialogue system and create branching dialogue, which is easier to expand than a single dialogue branch.
+
+### Activity 2
+
+Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 3
+
+### Activity 4
+
+Only 2 more NPCs and the dialogs texts between the characters.
+
+### Activity 5
+
+[commit link](https://github.com/leiyu0803/GDIM32-Final/commit/47db624a0f2351a6bffc58f55ded84a2071bdde1)
+
+I did the NPC Navmesh walking logic in the parlour scene and added lights.

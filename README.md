@@ -165,7 +165,7 @@ Made a raw NPC that can move to specific locations and can play animation(but bu
 
 [Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/fe3abe131af76f3f7a79ad029fffd0032272ceee)
 
-## Week 8
+## Week 9
 
 ### Activity 1
 

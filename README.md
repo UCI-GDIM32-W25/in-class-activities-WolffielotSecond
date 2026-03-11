@@ -188,3 +188,21 @@ Only 2 more NPCs and the dialogs texts between the characters.
 [commit link](https://github.com/leiyu0803/GDIM32-Final/commit/47db624a0f2351a6bffc58f55ded84a2071bdde1)
 
 I did the NPC Navmesh walking logic in the parlour scene and added lights.
+
+## Week 10
+
+### Activity 1
+
+Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 2
+
+Most we make is work as expected. Playtester learn how to play the game in a short amount of time.  A small problem may cause NPC randomly move around. We already fix that.
+
+### Activity 3
+
+I think we are about to wrap up, we are still missing the dialogs but only the dialogs. We already have the scriptable object for the dialog and we miss only the content and branching dialogs.
+
+### Activity 4
+
+[Player Hand and the ice cream in its hand, and some fixes with merging errors and texture errors](https://github.com/leiyu0803/GDIM32-Final/commit/3e76ad2403d3084f07f2c033045a37d40e0000a2)
